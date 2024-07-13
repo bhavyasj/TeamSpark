@@ -120,4 +120,3 @@ bool CryptoWrapper::getPublicKeyFromCertificate(IN const BYTE* certBuffer, IN si
 #endif
 #endif
 #endif
-
