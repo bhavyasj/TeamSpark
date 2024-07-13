@@ -6,13 +6,18 @@ To develop a cryptography simulation that demonstrates secure communication over
 
 **Team Details**
 
-Team Name : TeamSpark /n
+Team Name : TeamSpark
+
 Team Size : 5
+
 Members : Bhavya Sri Jonnala, Harshini Y L, Lalitha Devi I, Udari Jyothi, V Asha Reddy
+
 College Name : GITAM University
 
 **This Repository Contents**
 
 Problem Statement
+
 PowerPoint Presentation
+
 Solution 
